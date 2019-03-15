@@ -1,0 +1,19 @@
+c:\users\mak\documents\visual studio 2017\Projects\Rockets\Rockets\bin\Debug\Rockets.exe.config
+c:\users\mak\documents\visual studio 2017\Projects\Rockets\Rockets\bin\Debug\Rockets.exe
+c:\users\mak\documents\visual studio 2017\Projects\Rockets\Rockets\bin\Debug\Rockets.pdb
+c:\users\mak\documents\visual studio 2017\Projects\Rockets\Rockets\obj\Debug\Rockets.csprojResolveAssemblyReference.cache
+c:\users\mak\documents\visual studio 2017\Projects\Rockets\Rockets\obj\Debug\Rockets.Form1.resources
+c:\users\mak\documents\visual studio 2017\Projects\Rockets\Rockets\obj\Debug\Rockets.Properties.Resources.resources
+c:\users\mak\documents\visual studio 2017\Projects\Rockets\Rockets\obj\Debug\Rockets.csproj.GenerateResource.Cache
+c:\users\mak\documents\visual studio 2017\Projects\Rockets\Rockets\obj\Debug\Rockets.exe
+c:\users\mak\documents\visual studio 2017\Projects\Rockets\Rockets\obj\Debug\Rockets.pdb
+F:\RocketsDEMO-master\RocketsDEMO-master\Rockets\bin\Debug\Rockets.exe.config
+F:\RocketsDEMO-master\RocketsDEMO-master\Rockets\bin\Debug\Rockets.exe
+F:\RocketsDEMO-master\RocketsDEMO-master\Rockets\bin\Debug\Rockets.pdb
+F:\RocketsDEMO-master\RocketsDEMO-master\Rockets\obj\Debug\Rockets.csprojAssemblyReference.cache
+F:\RocketsDEMO-master\RocketsDEMO-master\Rockets\obj\Debug\Rockets.Form1.resources
+F:\RocketsDEMO-master\RocketsDEMO-master\Rockets\obj\Debug\Rockets.Properties.Resources.resources
+F:\RocketsDEMO-master\RocketsDEMO-master\Rockets\obj\Debug\Rockets.csproj.GenerateResource.cache
+F:\RocketsDEMO-master\RocketsDEMO-master\Rockets\obj\Debug\Rockets.csproj.CoreCompileInputs.cache
+F:\RocketsDEMO-master\RocketsDEMO-master\Rockets\obj\Debug\Rockets.exe
+F:\RocketsDEMO-master\RocketsDEMO-master\Rockets\obj\Debug\Rockets.pdb
