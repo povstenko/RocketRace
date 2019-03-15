@@ -17,3 +17,13 @@ F:\RocketsDEMO-master\RocketsDEMO-master\Rockets\obj\Debug\Rockets.csproj.Genera
 F:\RocketsDEMO-master\RocketsDEMO-master\Rockets\obj\Debug\Rockets.csproj.CoreCompileInputs.cache
 F:\RocketsDEMO-master\RocketsDEMO-master\Rockets\obj\Debug\Rockets.exe
 F:\RocketsDEMO-master\RocketsDEMO-master\Rockets\obj\Debug\Rockets.pdb
+C:\Users\Александр\Documents\GitHub\RocketRace\Rockets\bin\Debug\Rockets.exe.config
+C:\Users\Александр\Documents\GitHub\RocketRace\Rockets\bin\Debug\Rockets.exe
+C:\Users\Александр\Documents\GitHub\RocketRace\Rockets\bin\Debug\Rockets.pdb
+C:\Users\Александр\Documents\GitHub\RocketRace\Rockets\obj\Debug\Rockets.csprojAssemblyReference.cache
+C:\Users\Александр\Documents\GitHub\RocketRace\Rockets\obj\Debug\Rockets.fMain.resources
+C:\Users\Александр\Documents\GitHub\RocketRace\Rockets\obj\Debug\Rockets.Properties.Resources.resources
+C:\Users\Александр\Documents\GitHub\RocketRace\Rockets\obj\Debug\Rockets.csproj.GenerateResource.cache
+C:\Users\Александр\Documents\GitHub\RocketRace\Rockets\obj\Debug\Rockets.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\GitHub\RocketRace\Rockets\obj\Debug\Rockets.exe
+C:\Users\Александр\Documents\GitHub\RocketRace\Rockets\obj\Debug\Rockets.pdb

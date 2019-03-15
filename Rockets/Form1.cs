@@ -1,36 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Rockets
 {
-    public partial class Form1 : Form
+    public partial class fMain : Form
     {
         static int i = 0;
-        public Form1()
+        public fMain()
         {
             InitializeComponent();
-            //foreach (var item in Controls)
-            //{
-            //    if (item is PictureBox)
-            //    {
-            //        (item as PictureBox).Image = Image.FromFile("rocket.png");
-            //        (item as PictureBox).SizeMode = PictureBoxSizeMode.Zoom;
-            //    }
-            //}
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-          
-
         }
 
         private void gameRocket(object state)
@@ -61,8 +42,6 @@ namespace Rockets
              
                 Thread.Sleep(200);
             }
-           
-            
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -78,7 +57,7 @@ namespace Rockets
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Close();
+            Application.Exit();
         }
     }
 }
