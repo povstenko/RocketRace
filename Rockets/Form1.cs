@@ -8,7 +8,6 @@ namespace Rockets
 {
     public partial class fMain : Form
     {
-        static int i = 0;
         public fMain()
         {
             InitializeComponent();
@@ -46,13 +45,11 @@ namespace Rockets
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
             ThreadPool.QueueUserWorkItem(gameRocket, pictureBox1);
             ThreadPool.QueueUserWorkItem(gameRocket, pictureBox2);
             ThreadPool.QueueUserWorkItem(gameRocket, pictureBox3);
             ThreadPool.QueueUserWorkItem(gameRocket, pictureBox4);
             ThreadPool.QueueUserWorkItem(gameRocket, pictureBox5);
-
         }
 
         private void button2_Click(object sender, EventArgs e)
